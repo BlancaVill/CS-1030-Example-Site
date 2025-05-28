@@ -30,7 +30,7 @@ nav a:hover {
   text-decoration: underline;
 }
 h1, h3 {
-  font-family: "Brush Script", cursive;
+  font-family: monospace, cursive;
   text-align: center;
   color: #50c878; 
   font-size: 2.5em;
