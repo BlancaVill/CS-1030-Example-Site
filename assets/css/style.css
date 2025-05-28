@@ -53,7 +53,6 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 5px solid orange;
 }
 
 figcaption {
@@ -68,6 +67,9 @@ footer {
   padding: 20px;
   margin-top: 40px;
   font-size: 0.9em;
+}
+gall-img {
+border: 8px solid orange;
 }
 
 
