@@ -30,14 +30,14 @@ nav a:hover {
   text-decoration: underline;
 }
 h1, h3 {
-  font-family: "Verdan"; sans-serif;
+  font-family: "Brush Script MT", cursive;
   text-align: center;
   color: #50c878; 
   font-size: 2.5em;
 }
 
 h2 {
-  font-family: "Verdana", cursive;
+  font-family: "Verdan", sans-serif;
   text-align: center;
   color: orange;
   font-size: 1.8em;
