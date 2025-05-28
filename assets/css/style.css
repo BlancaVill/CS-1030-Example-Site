@@ -30,11 +30,14 @@ nav a:hover {
   text-decoration: underline;
 }
 h1, h3 {
+  font-family: monospace;
   text-align: center;
   color: #50c878; 
   font-size: 2.5em;
 }
+
 h2 {
+  font-family: "Brush Script MT";
   text-align: center;
   color: orange;
   font-size: 1.8em;
