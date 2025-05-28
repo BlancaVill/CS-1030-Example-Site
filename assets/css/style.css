@@ -1,11 +1,14 @@
 html {
     background-size: cover;
+    background-color: #fdf6f0
 }
 body {
   margin: 0;
   padding: 0;
 }
-
+nav {
+  margin: 15px 0;
+}
 nav a {
   color: #ffd479;
   font-size: 1.2em;
