@@ -1,6 +1,10 @@
+html {
+    background-size: cover;
+}
 body {
   font-family: Arial, sans-serif;
   background-color: #fdf6f0; 
+  background-size: cover;
   color: #333;
   margin: 0;
   padding: 0;
