@@ -53,6 +53,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+   border: 4px orange;
 }
 
 figcaption {
