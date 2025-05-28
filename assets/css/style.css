@@ -69,16 +69,15 @@ footer {
   margin-top: 40px;
   font-size: 0.9em;
 }
-  <style>
-    button {
-      background-color: #222;
-      color: #ffdb58;
-      padding: 10px 20px;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-      font-size: 16px;
-    }
+button {
+  background-color: #222;
+  color: #ffdb58;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
 
 
 
