@@ -2,8 +2,8 @@ html {
     background-size: cover
 }
 body {
-  font-family: Arial, sans-serif;
-  background-color: #fdf6f0; 
+  font-family: Verdan, sans-serif;
+  background-color: #f8f5f0; 
   color: #333;
   margin: 0;
   padding: 0;
@@ -17,6 +17,7 @@ header {
 
 nav {
   margin: 15px 0;
+  text-align:center
 }
 
 nav a {
@@ -31,7 +32,7 @@ nav a:hover {
   text-decoration: underline;
 }
 h1, h3 {
-  font-family: cursive, sans-serif;
+  font-family: Brush Script MT, cursive;
   text-align: center;
   color: #50c878; 
   font-size: 2.5em;
