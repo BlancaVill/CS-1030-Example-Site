@@ -28,10 +28,10 @@ nav a:hover {
   text-decoration: underline;
 }
 h1, h3 {
-  font-family: Cookie, sans-serif;
+  font-family: cursive, sans-serif;
   text-align: center;
   color: #50c878; 
-  font-size: 2em;
+  font-size: 2.5em;
 }
 h2 {
   text-align: center;
@@ -72,7 +72,7 @@ footer {
   <style>
     button {
       background-color: #222;
-      color: Mustard Yellow;
+      color: #ffdb58;
       padding: 10px 20px;
       border: none;
       border-radius: 5px;
