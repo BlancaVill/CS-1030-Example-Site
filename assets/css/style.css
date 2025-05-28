@@ -2,14 +2,12 @@ html {
     background-size: cover;
 }
 body {
-  font-family: Palantine, sans-serif;
-  color: #f5f5dc;
   margin: 0;
   padding: 0;
 }
 header {
   text-align: center;
-  padding: 20px;
+  padding: 0;
   background-color: #222;
   color: white;
 }
