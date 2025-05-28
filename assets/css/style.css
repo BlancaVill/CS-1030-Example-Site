@@ -30,14 +30,14 @@ nav a:hover {
   text-decoration: underline;
 }
 h1, h3 {
-  font-family: "Courier New", monospace;
+  font-family: "Courier New", fanstasy;
   text-align: center;
   color: #50c878; 
   font-size: 2.5em;
 }
 
 h2 {
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: monospace, cursive;
   text-align: center;
   color: orange;
   font-size: 1.8em;
