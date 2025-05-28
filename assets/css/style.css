@@ -1,14 +1,24 @@
 html {
-    background-size: cover;
-    background-color: #fdf6f0
+    background-size: cover
 }
 body {
+  font-family: Arial, sans-serif;
+  background-color: #fdf6f0; 
+  color: #333;
   margin: 0;
   padding: 0;
 }
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: #222;
+  color: white;
+}
+
 nav {
   margin: 15px 0;
 }
+
 nav a {
   color: #ffd479;
   font-size: 1.2em;
@@ -62,7 +72,4 @@ footer {
   margin-top: 40px;
   font-size: 0.9em;
 }
-
-
-
 
